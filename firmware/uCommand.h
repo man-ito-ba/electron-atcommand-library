@@ -2,7 +2,7 @@
 /**
 
 */
-class electron-atcommand-library
+class uCommand
 {
 public:
 	bool setDebug(bool);
