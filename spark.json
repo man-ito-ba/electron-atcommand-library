@@ -2,6 +2,6 @@
   "name": "electron-atcommand-library",
   "author": "Robyn Hannah <rhannah@nrie.com.au>",
   "license": "MIT",
-  "version": "1.0.00",
+  "version": "1.0.01",
   "description": "A basic class which implements some AT commands using the Electron Cellular.command() functions"
 }
